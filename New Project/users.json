@@ -1,0 +1,29 @@
+[{
+  "id": Byakuya,
+  "Attack": "731",
+  "Defense": "295",
+  "Stamina": "1031",
+  "Focus": "231",
+  "SP": "648"
+}, {
+  "id": FBIchigo,
+  "Attack": "631",
+  "Defense": "305",
+  "Stamina": "1078",
+  "Focus": "350",
+  "SP": "729"
+}, {
+  "id": Ulqiorra,
+  "Attack": "634",
+  "Defense": "332",
+  "Stamina": "1045",
+  "Focus": "338",
+  "SP": "729"
+}, {
+  "id": Aizen,
+  "Attack": "635",
+  "Defense": "285",
+  "Stamina": "1026",
+  "Focus": "292",
+  "SP": "758"
+}]
